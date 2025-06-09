@@ -1,0 +1,38 @@
+p{
+    font-style:italic;
+}
+#date{
+    text-decoration:underline;
+}
+img{
+    border-radius: 20px;
+    border-color: black;
+}
+#ref{
+    text-align: center;
+    background-color:lightyellow;
+    color: aliceblue;
+    border-width: 50px;
+}
+#head{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+h2{
+    text-decoration:underline;color: black;
+    color:rgb(52, 185, 136);
+}
+*{
+    margin: 10px;
+    background-color: lightyellow;
+}
+nav{
+    padding: auto;
+}
+*{
+    color:black;
+}
+#pic{
+    height: 250px;
+    border-color:antiquewhite;
+    border-width: 50px;
+}
